@@ -18,8 +18,16 @@ In this project we are going to implement authentication by using single sign-on
 4- once submitted the credentials google will authenticate the user
 5-  return authentication code
  6- in tern I will be submitting request id and access token
+ 
+ 
  # output
  
 ![auth](https://user-images.githubusercontent.com/116215865/199357871-ae5837a0-3f3e-4590-a018-34c281f1fcb7.png)
 
+ # output
+ 
+ 
+
+
+https://user-images.githubusercontent.com/116215865/199358465-ecafae83-0d2f-46c9-b6d5-17cc637a5dfb.mp4
 
