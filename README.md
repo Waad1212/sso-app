@@ -31,3 +31,7 @@ In this project we are going to implement authentication by using single sign-on
 
 https://user-images.githubusercontent.com/116215865/199358465-ecafae83-0d2f-46c9-b6d5-17cc637a5dfb.mp4
 
+code source:
+I have reused this code and applied it in my academic homework, thanking him for his clear explanation and excellent execution
+https://github.com/Java-Techie-jt/spring-boot-okta-sso.git
+
